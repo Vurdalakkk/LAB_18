@@ -169,6 +169,7 @@ void print_train(Train t)
 ## 3. Результаты работы программы
 
 
+<img width="322" height="403" alt="изображение" src="https://github.com/user-attachments/assets/360b1707-403b-4f6d-b4a2-fe9245e4d466" />
 
 
 
